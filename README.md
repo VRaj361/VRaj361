@@ -28,7 +28,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 <a href="https://codepen.io/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>-->
-<a href="www.linkedin.com/in/vraj-patel-4454071b4" target="blank"><img align="center" src="https://www.rdant.com.au/wp-content/uploads/Linked-in.png"  alt="rahuldkjain" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/vraj-patel-4454071b4" target="blank"><img align="center" src="https://www.rdant.com.au/wp-content/uploads/Linked-in.png"  alt="rahuldkjain" height="40" width="40" /></a>
 <a href="https://www.instagram.com/vraj.1290/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/instagram-512.png" alt="rahul_dk_jain" height="40" width="40" /></a>
 </p>
 <!--
