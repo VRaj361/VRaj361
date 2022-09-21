@@ -11,9 +11,9 @@
 -->
 
 
-- 🤔 I’m looking for help with Regarding Full Stack Development.
+- 🤔 I’m looking for help with Regarding Full Stack Development, DSA Problems and Projects.
 
-- 💬 Ask me about **react, Angular and Spring**
+- 💬 Ask me about **React, Angular and Spring**
 
 - 📫 Reach me at **vrajnpatel3333@gmail.com**
 
@@ -62,8 +62,9 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular-logo" width="45px" />
 
-   <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="this is image" width="40px"/>
-   <img src="https://freeiconshop.com/wp-content/uploads/edd/android-flat.png" alt="this is image" width="40px"/>
+   <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="spring" width="40px"/>
+   <img src="https://freeiconshop.com/wp-content/uploads/edd/android-flat.png" alt="android" width="40px"/>
+   <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" alt="Java" width="40px"/>
 
 
 
