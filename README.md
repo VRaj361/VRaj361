@@ -64,7 +64,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
    <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="spring" width="40px"/>
    <img src="https://freeiconshop.com/wp-content/uploads/edd/android-flat.png" alt="android" width="40px"/>
-   <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" alt="Java" width="40px"/>
+   <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" alt="Java" width="68px" height="45px"/>
 
 
 
