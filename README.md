@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **vrajnpatel3333@gmail.com**
 
-- 📁 Visit my portfolio at <a href="https://linktr.ee/vraj_2604" target="blank">Vraj Patel</a>
+- 📁 Visit my portfolio at <a href="https://linktr.ee/vraj_2604" target="blank"><b>Vraj Patel</b></a>
 
 <!--- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)-->
 
