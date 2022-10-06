@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vraj</h1>
 
-<h3 align="center">A younger 🤓 Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A young 🤓 Full Stack Developer and Passionate Coder from India 🇮🇳</h3>
 
 <!--
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
