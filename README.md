@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vraj-patel-4454071b4" target="blank"><img align="center" src="https://www.rdant.com.au/wp-content/uploads/Linked-in.png"  alt="vrajpatel" height="40" width="40" /></a>
-<a href="https://www.instagram.com/vraj.1290/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/instagram-512.png" alt="vrajpatel" height="40" width="40" /></a>
-<a href="https://twitter.com/VrajPat48779083"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-1024.png" alt="vidit_02" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/vraj-patel-4454071b4" target="_blank"><img align="center" src="https://www.rdant.com.au/wp-content/uploads/Linked-in.png"  alt="vrajpatel" height="40" width="40" /></a>
+<a href="https://www.instagram.com/vraj.1290/" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/instagram-512.png" alt="vrajpatel" height="40" width="40" /></a>
+<a href="https://twitter.com/VrajPat48779083" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-1024.png" alt="vidit_02" height="40" width="40" /></a>
 </p>
 <!--
 
