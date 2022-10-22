@@ -12,7 +12,7 @@
 
 - 📫 Reach me at **vrajnpatel3333@gmail.com**
 
-- 📁 Visit my portfolio at <a href="https://linktr.ee/vraj_2604" target="blank"><b>Vraj Patel</b></a>
+- 📁 Visit my portfolio at <a href="https://vraj361.github.io/" target="_blank"><b>Vraj Patel</b></a>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -21,15 +21,7 @@
 <a href="https://www.instagram.com/vraj.1290/" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/instagram-512.png" alt="vrajpatel" height="40" width="40" /></a>
 <a href="https://twitter.com/VrajPat48779083" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-1024.png" alt="vidit_02" height="40" width="40" /></a>
 </p>
-<!--
 
-
-
-- [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
-- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
-- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
-- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
