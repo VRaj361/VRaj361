@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vraj-patel-4454071b4" target="_blank"><img align="center" src="https://www.rdant.com.au/wp-content/uploads/Linked-in.png"  alt="vrajpatel" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/vrajpatel1604" target="_blank"><img align="center" src="https://www.rdant.com.au/wp-content/uploads/Linked-in.png"  alt="vrajpatel" height="40" width="40" /></a>
 <a href="https://www.instagram.com/vraj.2901/" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/instagram-512.png" alt="vrajpatel" height="40" width="40" /></a>
 <a href="https://twitter.com/VrajPat48779083" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-1024.png" alt="vrajpatel" height="40" width="40" /></a>
 </p>
@@ -47,7 +47,9 @@
 
    <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="spring" width="40px"/>
    <img src="https://freeiconshop.com/wp-content/uploads/edd/android-flat.png" alt="android" width="40px"/>
+    <img src="https://logos-world.net/wp-content/uploads/2020/10/Salesforce-Logo.png" alt="Salesforce" width="68px" height="45px"/>
    <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" alt="Java" width="68px" height="45px"/>
+  
 
 
 
