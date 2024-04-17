@@ -12,7 +12,7 @@
 
 - 📫 Reach me at **vrajnpatel3333@gmail.com**
 
-- 📁 Visit my portfolio at <a href="https://vraj361.github.io/" target="_blank"><b>Vraj Patel</b></a>
+- 📁 Visit my portfolio at <a href="https://vraj1604.netlify.app/" target="_blank"><b>Vraj Patel</b></a>
 
 - 📝 Checkout my passionate hobby on <a href="https://www.instagram.com/soulpoetry.27" target="_blank"><b>SoulPoetry.27</b></a> 
 
