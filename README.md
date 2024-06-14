@@ -8,7 +8,7 @@
 
 - 🤔 I’m looking for help with Regarding Full Stack Development, DSA Problems and Projects.
 
-- 💬 Ask me about **React, Angular and Spring**
+- 💬 Ask me about **Salesforce, React and Java**
 
 - 📫 Reach me at **vrajnpatel3333@gmail.com**
 
